@@ -1,3 +1,3 @@
 # kelvin-weather_project
-codeacademy kelvin-weather project 
-javascript lessons project1
+Project 1 in the Codeacademy Web Development Course <br>
+<i>Project</i> <strong>Kelvin Weather</strong>
